@@ -1,0 +1,23 @@
+{
+  "name": "node.js-with-react",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SleepySML/node.js-with-react.git"
+  },
+  "author": "Eugene Kurdakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SleepySML/node.js-with-react/issues"
+  },
+  "homepage": "https://github.com/SleepySML/node.js-with-react#readme"
+}
